@@ -1,17 +1,16 @@
-```markdown
 # 💡 Breaking Data Barriers  
 ### *Advancing Web Data Accessibility for the Visually Impaired*
 
 > “Ensuring information is not just available but also **usable** and **meaningful** for everyone.”
 
----
+
 
 ## 📄 Abstract
 
 In today’s digital era, access to information should be universal. Yet, for individuals who are blind or visually impaired, data accessibility—especially when it comes to graphical or spatial data—remains a persistent challenge.  
 This thesis explores the **technological, ethical, and design-based frameworks** needed to make digital data truly inclusive. From **assistive technologies** to **deep learning**, this project proposes innovative solutions for better data interaction, sonification, and semantic structuring.
 
----
+
 
 ## 🎯 Project Goals
 
