@@ -84,4 +84,4 @@ This thesis explores the **technological, ethical, and design-based frameworks**
 
 **Author:** Khushbu Mahendra Patil  
 📧 *Email:* `khushbu1207@gmail.com `  
-🔗 *LinkedIn / Website:* linkedin.com/in/khushbupatil07 
+🔗 *LinkedIn / Website:* `linkedin.com/in/khushbupatil07`
